@@ -1,5 +1,5 @@
 # Basic Digital Literacy Assessment 
-
+ 
 ## Summary
 
 This is used to assess a student's level of digital literacy and gain a baseline for the student at his or her start.
